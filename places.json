@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "project_title": {
+      "de": "Wolken & Übergänge – Ein Stadtspaziergang",
+      "en": "Clouds & Transitions – A City Walk"
+    },
+    "institution": "Angermuseum Erfurt",
+    "version": "1.0",
+    "last_updated": "2025-01-15"
+  },
+
+  "settings": {
+    "default_language": "de",
+    "available_languages": ["de", "en"]
+  },
+
+  "stations": [
+    {
+      "id": "station-01",
+      "type": "image",
+
+      "coordinates": {
+        "lat": 50.9795,
+        "lng": 11.0305
+      },
+
+      "title": {
+        "de": "Wolkenmotiv im Stadtraum",
+        "en": "Cloud Motif in the City"
+      },
+
+      "short_intro": {
+        "de": "Ein Bild mit Wolken, das Übergänge sichtbar macht.",
+        "en": "An image with clouds that makes transitions visible."
+      },
+
+      "media": {
+        "image": "images/wolkenmotiv.jpg",
+        "caption": {
+          "de": "Unbekannter Künstler, 19. Jahrhundert",
+          "en": "Unknown artist, 19th century"
+        },
+        "copyright": "Public Domain"
+      },
+
+      "curatorial_text": {
+        "de": "Wolken erscheinen hier als vermittelnde Zone zwischen Himmel und Erde. Sie markieren keinen festen Ort, sondern Bewegung, Wandel und Übergang.",
+        "en": "Clouds appear here as a mediating zone between sky and earth. They do not mark a fixed place, but movement, change, and transition."
+      },
+
+      "educational_prompt": {
+        "de": "Was verbinden die Wolken in dieser Darstellung?",
+        "en": "What do the clouds connect in this depiction?"
+      },
+
+      "further_thought": {
+        "de": "Achte auf ähnliche Motive im Stadtraum.",
+        "en": "Look for similar motifs in the urban space."
+      }
+    },
+
+    {
+      "id": "station-02",
+      "type": "audio",
+
+      "coordinates": {
+        "lat": 50.9780,
+        "lng": 11.0400
+      },
+
+      "title": {
+        "de": "Hörstation: Übergänge",
+        "en": "Listening Station: Transitions"
+      },
+
+      "short_intro": {
+        "de": "Eine kurze Klangsequenz zu diesem Ort.",
+        "en": "A short sound sequence for this place."
+      },
+
+      "media": {
+        "audio": "audio/uebergaenge.mp3",
+        "duration": "01:45",
+        "credits": {
+          "de": "Text & Stimme: …",
+          "en": "Text & voice: …"
+        }
+      },
+
+      "curatorial_text": {
+        "de": "Das Audio lenkt den Blick weg vom Sichtbaren und hin zum Raum als Klangkörper.",
+        "en": "The audio shifts attention away from the visible toward space as a sound body."
+      },
+
+      "educational_prompt": {
+        "de": "Wie verändert Klang deine Wahrnehmung dieses Ortes?",
+        "en": "How does sound change your perception of this place?"
+      },
+
+      "further_thought": {
+        "de": "Bleibe einen Moment stehen, bevor du weitergehst.",
+        "en": "Pause for a moment before moving on."
+      }
+    }
+  ]
+}
